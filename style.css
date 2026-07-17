@@ -1,9 +1,19 @@
-* { 
+:root { 
+    --bg-main: #0f172a; 
+    --bg-card: #1e293b; 
+    --text-main: #f8fafc; 
+    --text-muted: #94a3b8; 
+    --accent-blue: #38bdf8; 
+    --accent-green: #4ade80; 
+    --accent-red: #f87171; 
+    --border-color: #334155; 
+
 margin: 0; 
 padding: 0; 
 box-sizing: border-box; 
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
 } 
+
 body { 
 background-color: #0f172a; 
 color: #f8fafc; 
