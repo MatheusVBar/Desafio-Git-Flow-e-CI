@@ -51,3 +51,13 @@ body {
     color: var(--accent-blue);
     letter-spacing: 1px;
 }
+
+/* --- Código do Passo 9: Barra Superior --- */
+.topbar {
+    background-color: var(--bg-card);
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2rem;
+}
